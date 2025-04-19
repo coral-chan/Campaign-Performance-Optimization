@@ -28,7 +28,7 @@ This project focuses on analyzing and optimizing the performance of digital mark
   - **Total Spend** and **CPC** are the strongest predictors of ROI.
   - **Low Spend + Mid CPC** combinations yielded the best returns.
   - **High Spend & High CPC** resulted in low efficiency.
-- [Download the full analysis in the Jupyter Notebook: campaign.ipynb](campaign.ipynb)
+- Check out the analysis in the Jupyter Notebook: [campaign.ipynb](campaign.ipynb)
 
 ## 📌 Key SQL Analysis
 
