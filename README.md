@@ -1,4 +1,4 @@
-# 📈 Campaign Performance Optimization
+# 📈 Campaign Performance Optimization 
 
 This project focuses on analyzing and optimizing the performance of digital marketing campaigns. I built an end-to-end data pipeline to process raw media data, performed KPI analysis using SQL, applied machine learning models to predict and improve campaign ROI, and created compelling visualizations to support strategic decision-making.
 
